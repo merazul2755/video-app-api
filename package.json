@@ -3,9 +3,7 @@
   "description": "Example in memory todos api with json-server by Learn with Sumit",
   "version": "1.0.0",
   "main": "server.js",
-  "engines": {
-   "node": "12.13.2"
-   },
+  
   "scripts": {
     "start": "node server.js",
     "start-dev": "nodemon server.js"
@@ -13,6 +11,8 @@
   "keywords": [],
   "author": "Learn with Sumit",
   "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
     "json-server": "^0.17.0",
     "nodemon": "^2.0.19"
   }
