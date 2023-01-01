@@ -34,8 +34,8 @@
         "javascript",
         "react"
       ],
-      "likes": 1,
-      "unlikes": 0
+      "likes": 4,
+      "unlikes": 8
     },
     {
       "id": 3,
@@ -52,7 +52,7 @@
         "vscode",
         "tips"
       ],
-      "likes": 8,
+      "likes": 11,
       "unlikes": 1
     },
     {
@@ -69,10 +69,9 @@
       "tags": [
         "javascript"
       ],
-      "likes": 0,
-      "unlikes": 0
+      "likes": 11,
+      "unlikes": 7
     },
-    
     {
       "id": 5,
       "title": "Tailwind CSS 3 tutorial - Upgrade to Tailwind 3 | Tailwind CSS Bangla Tutorial",
@@ -106,8 +105,8 @@
         "javascript",
         "tips"
       ],
-      "likes": 1,
-      "unlikes": 0
+      "likes": 11,
+      "unlikes": 2
     },
     {
       "id": 7,
@@ -142,8 +141,8 @@
         "css",
         "ui"
       ],
-      "likes": 0,
-      "unlikes": 0
+      "likes": 58,
+      "unlikes": 9
     },
     {
       "id": 9,
@@ -232,7 +231,7 @@
         "javascript",
         "tips"
       ],
-      "likes": 1,
+      "likes": 6,
       "unlikes": 0
     },
     {
@@ -267,7 +266,6 @@
       "thumbnail": "https://i.ytimg.com/vi/1Rs2ND1ryYc/maxresdefault.jpg",
       "tags": [
         "css"
-        
       ],
       "likes": 0,
       "unlikes": 0
@@ -290,7 +288,6 @@
       "likes": 0,
       "unlikes": 0
     },
-
     {
       "id": 17,
       "title": "JavaScript Tutorial for Beginners in Bangla | Introduction | Part 01",
@@ -309,7 +306,6 @@
       "likes": 0,
       "unlikes": 0
     },
-
     {
       "id": 18,
       "title": "JavaScript Tutorial for Beginners in Bangla | Introduction | Part 02",
@@ -328,7 +324,6 @@
       "likes": 0,
       "unlikes": 0
     },
-
     {
       "id": 19,
       "title": "Tailwind CSS Tutorial Bangla - Introduction to Tailwind CSS",
@@ -348,7 +343,6 @@
       "likes": 0,
       "unlikes": 0
     },
-
     {
       "id": 20,
       "title": "Go Bangla Tutorial 1 : Course plan",
@@ -505,7 +499,6 @@
       "thumbnail": "https://i.ytimg.com/vi/_zPNLidkNYk/maxresdefault.jpg",
       "tags": [
         "javascript"
-        
       ],
       "likes": 0,
       "unlikes": 0
@@ -523,7 +516,6 @@
       "thumbnail": "https://i.ytimg.com/vi/2vbr9f7OVMY/maxresdefault.jpg",
       "tags": [
         "javascript"
-        
       ],
       "likes": 0,
       "unlikes": 0
@@ -583,7 +575,6 @@
       "likes": 0,
       "unlikes": 0
     },
-
     {
       "id": 33,
       "title": "React JS - React Tutorial for Beginners",
@@ -660,8 +651,47 @@
       "likes": 0,
       "unlikes": 0
     }
-
-]
-
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "title": "javascript"
+    },
+    {
+      "id": 2,
+      "title": "react"
+    },
+    {
+      "id": 3,
+      "title": "tips"
+    },
+    {
+      "id": 4,
+      "title": "vscode"
+    },
+    {
+      "id": 5,
+      "title": "tailwind"
+    },
+    {
+      "id": 6,
+      "title": "css"
+    },
+    {
+      "id": 7,
+      "title": "debounce"
+    },
+    {
+      "id": 8,
+      "title": "sass"
+    },
+    {
+      "id": 9,
+      "title": "ui"
+    },
+    {
+      "id": 10,
+      "title": "router"
+    }
+  ]
 }
- 
