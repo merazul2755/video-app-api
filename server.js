@@ -1,4 +1,4 @@
-const data = require("./data/videos.json");
+const data = require("./db");
 
 const jsonServer = require("json-server");
 const server = jsonServer.create();
